@@ -1,5 +1,3 @@
-AI-Driven Resource Management and Optimization
-===========================================================================================
 
 Artificial intelligence (AI) can play a significant role in improving sustainability efforts by optimizing resource management. In this chapter, we will discuss how AI can be leveraged to optimize resource management for improving sustainability.
 

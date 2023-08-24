@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-=====================================================================================================================================
 
 Artificial intelligence (AI) is transforming environmental monitoring and conservation efforts, but it also presents ethical challenges and biases that need to be managed. In this chapter, we will explore the importance of managing ethics and bias in AI-driven environmental monitoring and conservation, and strategies for mitigating risks and ensuring compliance.
 

@@ -1,5 +1,3 @@
-Predictive Analytics and Forecasting for Environmental Risk Assessment
-===================================================================================================================================================
 
 Artificial intelligence (AI) can significantly improve environmental monitoring and data collection by providing predictive analytics and forecasting for environmental risk assessment. In this chapter, we will discuss how AI can be leveraged to improve environmental risk assessment.
 

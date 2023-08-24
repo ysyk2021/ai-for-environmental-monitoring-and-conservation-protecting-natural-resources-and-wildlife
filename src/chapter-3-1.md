@@ -1,5 +1,3 @@
-Using AI for Real-Time Environmental Monitoring and Data Collection
-================================================================================================================================================
 
 Artificial intelligence (AI) can significantly improve environmental monitoring and data collection by providing real-time information on environmental conditions. In this chapter, we will discuss how AI can be leveraged to improve real-time environmental monitoring and data collection.
 

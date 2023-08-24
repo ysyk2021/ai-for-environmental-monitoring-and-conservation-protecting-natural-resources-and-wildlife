@@ -1,5 +1,3 @@
-Chapter 5: Improving Sustainability with AI
-===========================================
 
 Artificial intelligence (AI) has the potential to significantly improve sustainability efforts by optimizing resource management and providing personalized recommendations and interventions. In this chapter, we will discuss how AI can be leveraged to improve sustainability efforts.
 

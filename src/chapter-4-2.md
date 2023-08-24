@@ -1,5 +1,3 @@
-Automated Alert and Notification System using AI
-====================================================================================================
 
 Artificial intelligence (AI) can be leveraged to enhance conservation efforts by providing an automated alert and notification system. In this chapter, we will discuss how AI can be used to create an automated alert and notification system for improving conservation efforts.
 

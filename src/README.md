@@ -1,4 +1,3 @@
-# Introduction
 
 Welcome to "AI for Environmental Monitoring and Conservation: Protecting Natural Resources and Wildlife." Our planet is facing unprecedented environmental challenges, from climate change to biodiversity loss. In this context, technology has a vital role to play in protecting our natural resources and wildlife.
 

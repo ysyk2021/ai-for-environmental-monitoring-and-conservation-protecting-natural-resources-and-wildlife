@@ -1,5 +1,3 @@
-Personalized Recommendations and Interventions using AI
-====================================================================================================
 
 Artificial intelligence (AI) can play a significant role in improving sustainability efforts by providing personalized recommendations and interventions. In this chapter, we will discuss how AI can be leveraged to provide personalized recommendations and interventions for improving sustainability.
 

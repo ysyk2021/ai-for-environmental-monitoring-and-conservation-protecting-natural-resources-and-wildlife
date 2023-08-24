@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Conservation Efforts with AI
-=================================================
 
 Artificial intelligence (AI) can significantly enhance conservation efforts by providing innovative tools and technologies, such as wildlife tracking and habitat preservation techniques and automated alert and notification systems. In this chapter, we will discuss how AI can be leveraged to improve conservation efforts.
 

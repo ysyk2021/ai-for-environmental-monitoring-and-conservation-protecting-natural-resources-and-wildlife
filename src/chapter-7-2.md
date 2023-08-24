@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-========================================================================================================================================
 
 Artificial intelligence (AI) is unlocking new opportunities for environmental monitoring and conservation efforts. In this chapter, we will discuss some of the ways that AI is unlocking new opportunities for protecting natural resources and wildlife.
 
