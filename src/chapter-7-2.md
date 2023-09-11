@@ -1,5 +1,4 @@
-Chapter: Unlocking New Opportunities with AI
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting possibilities and new opportunities that arise from using Artificial Intelligence (AI) in environmental monitoring and conservation. AI has revolutionized various industries, and its application in protecting natural resources and wildlife holds immense potential for making significant advancements in conservation efforts.
 
